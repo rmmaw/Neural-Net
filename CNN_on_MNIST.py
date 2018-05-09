@@ -9,7 +9,7 @@ from keras import backend as K
 import matplotlib.pyplot as plt
 """ 
 Load data from MNIST data and create test and train sets. Reshape, and
-scale the data the data, and build a sequential model of CNN and asses
+scale the data, and build a sequential model of CNN and asses
 the accuracy.
 """
 
